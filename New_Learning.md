@@ -1,4 +1,4 @@
-###### **Information based on OverTheWire Games**
+### **Information based on OverTheWire Games**
 
 
 
